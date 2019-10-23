@@ -50,7 +50,7 @@ class TwitterBot:
                 print('Unable to like tweet :(')
             time.sleep(1)
 
-rits = TwitterBot('ritikjain1272@gmail.com', 'ritikjainnanu')
+rits = TwitterBot('<YOUR_USERNAME_HERE>', '<YOUR_PASSWORD_HERE>')
 rits.login()
 # Here Give Your Hashtag(replace ArtificialIntellingence with your hashtag)
 rits.like_tweets('ArtificialIntelligence')
