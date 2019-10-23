@@ -1,9 +1,9 @@
 # TwitterBot
-A Twitter Bot that likes tweets given hashtag thereby increasing your chances of getting more followers
+A Twitter Bot that likes tweets given hashtag thereby increasing your chances of getting more followers<br>
 
 ## Requirements
-selenium (pip install selenium)
-pyautogui (pip install pyautogui)
+selenium (pip install selenium)<br>
+pyautogui (pip install pyautogui)<br>
 geckodriver (Firefox driver is in this Repo)
 
 ## Guidelines for using the code
